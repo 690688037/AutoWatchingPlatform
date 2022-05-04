@@ -3,6 +3,8 @@
 
 下载地址
 =
+直接下载
+--
 
 zip（英文版）下载：[AutoWatchingPlatform.zip](https://github.com/690688037/AutoWatchingPlatform/files/8622390/AutoWatchingPlatform.zip)
 
@@ -13,6 +15,7 @@ zip（中文版）下载：[简约A股盯盘工具.zip](https://github.com/69068
 zip（中文版）-SHA1：f8e0c34b0241c353f872ba58b3d4a02012724324
 
 百度网盘：
+--
 
 链接：https://pan.baidu.com/s/196Nbni8coPr-Of981IkIpQ 
 
