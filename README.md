@@ -9,9 +9,13 @@ zip（中文版）下载：[简约A股盯盘工具.zip](https://github.com/69068
 zip（中文版）-SHA1：f8e0c34b0241c353f872ba58b3d4a02012724324
 
 百度网盘：
+
 链接：https://pan.baidu.com/s/196Nbni8coPr-Of981IkIpQ 
+
 提取码：1vdk
+
 若.zip无法解压，可下载.exe自行安装。
+
 exe（英文版）-SHA1：33ad0c028bfff4ff4cc08e65ad830af327e53781
 
 exe（中文版）-SHA1：094f7ff902c340a0124244d5111d25989fe496c1
