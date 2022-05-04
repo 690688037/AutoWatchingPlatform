@@ -1,5 +1,7 @@
 # AutoWatchingPlatform
-简约股票盯盘工具
+简约股票盯盘工具（适用于上班后台提醒操作、极限投机操作）
+
+![主界面](https://user-images.githubusercontent.com/37139897/166705464-c5d3670d-07d4-427a-95a8-edc9a055160d.png)
 
 左上（输入信息）：
 股票编码/名称-1
