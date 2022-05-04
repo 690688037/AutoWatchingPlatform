@@ -1,2 +1,2 @@
 # AutoWatchingPlatform
-简约盯盘工具
+简约股票盯盘工具
