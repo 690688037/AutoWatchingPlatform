@@ -416,10 +416,10 @@ namespace AutoWatchingPlatform
                 var response = (HttpWebResponse)request.GetResponse();
                 var dataList = new StreamReader(response.GetResponseStream()).ReadToEnd();//可以省略：, System.Text.Encoding.UTF8
 
-                allShares = JsonConvert.DeserializeObject<AllShares>(Properties.Settings.Default.allShares);
-
                 Properties.Settings.Default.allShares = dataList;
                 Properties.Settings.Default.Save();
+
+                allShares = JsonConvert.DeserializeObject<AllShares>(Properties.Settings.Default.allShares);
             }
             catch
             {
