@@ -1,5 +1,5 @@
-# AutoWatchingPlatform
-简约股票盯盘工具（适用于上班后台提醒操作、极限投机操作）
+# 简约A股盯盘工具（适用于上班后台提醒操作、极限投机操作）
+zip下载：[AutoWatcingPlatform.zip](https://github.com/690688037/AutoWatchingPlatform/files/8621354/AutoWatcingPlatform.zip)
 
 ![主界面](https://user-images.githubusercontent.com/37139897/166705464-c5d3670d-07d4-427a-95a8-edc9a055160d.png)
 
