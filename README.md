@@ -1,8 +1,11 @@
 # 简约A股盯盘工具（适用于上班后台提醒操作、极限投机操作）
 
 zip（英文版）下载：[AutoWatchingPlatform.zip](https://github.com/690688037/AutoWatchingPlatform/files/8622390/AutoWatchingPlatform.zip)
+
 zip（英文版）-SHA1：ad53978b2ff14f2d57c9dd064de3256a14573af3
+
 zip（中文版）下载：[简约A股盯盘工具.zip](https://github.com/690688037/AutoWatchingPlatform/files/8622392/A.zip)
+
 zip（中文版）-SHA1：f8e0c34b0241c353f872ba58b3d4a02012724324
 
 百度网盘：
@@ -10,6 +13,7 @@ zip（中文版）-SHA1：f8e0c34b0241c353f872ba58b3d4a02012724324
 提取码：1vdk
 若.zip无法解压，可下载.exe自行安装。
 exe（英文版）-SHA1：33ad0c028bfff4ff4cc08e65ad830af327e53781
+
 exe（中文版）-SHA1：094f7ff902c340a0124244d5111d25989fe496c1
 
 ![主界面](https://user-images.githubusercontent.com/37139897/166705464-c5d3670d-07d4-427a-95a8-edc9a055160d.png)
